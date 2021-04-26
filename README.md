@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teterabOb
-- 👀 I’m interested in Web technologies
+- 👀 I’m interested in disruptive technologies
 - 🌱 I’m currently learning solidity for developing smart contracts
 - 💞️ I’m looking to collaborate on BlockChain projects as DeFi, Developing Tokens
 - 📫 How to reach me, right here
