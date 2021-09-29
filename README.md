@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @teterabOb
+- 👋 Hi, I’m @teterabOb a.k.a Gilberts Ahumada
 - 👀 I’m interested in disruptive technologies
-- 🌱 I’m currently learning solidity for developing smart contracts
-- 💞️ I’m looking to collaborate on BlockChain projects.
-- 📫 How to reach me, right here gilbertsahumada@gmail.com
+- 💞️ I’m looking to collaborate on BlockChain projects - Hackathons.
+- 📫 gilbertsahumada@gmail.com
 
 <!---
 teterabOb/teterabOb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
