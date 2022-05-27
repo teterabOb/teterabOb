@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teterabOb on Twitter
 - 📫 gilbertsahumada@gmail.com
-- ✨ Solidity Full Stack Developer
+- ✨ Blockchain Full Stack Developer
 - ✨ Blockchain Engineer
 <!---
 teterabOb/teterabOb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
