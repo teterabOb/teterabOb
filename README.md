@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gilbertsahumada on Twitter
 - 📫 gilbertsahumada@gmail.com
 - ✨ Blockchain Full Stack Developer
-- ✨ Chainlink Expert Developer
+- ✨ Chainlink Developer Expert 
 - ✨ My YouTube channel: www.youtube.com/@gilbertsahumada
 - ✨ My Website: www.observdev.com
 <!---
