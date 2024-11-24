@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gilbertsahumada on Twitter
 - 📫 gilbertsahumada@gmail.com
-- ✨ CTO & Co-Founder | Building www.getsherry.app
+- ✨ CTO & Co-Founder | Building www.sherry.social
 - ✨ Chainlink Developer Expert 
 - ✨ YouTube channel: www.youtube.com/@gilbertsahumada
 <!---
